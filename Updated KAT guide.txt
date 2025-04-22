@@ -1,0 +1,824 @@
+﻿Advanced Medical Course -
+  105th Shock Trooper Battalion -
+
+
+Written by HM2 J. Knight & CWO3 S. Skye
+Edited by Maj. G. Cruz
+Approved by Maj. G. Cruz
+
+
+“Isn’t it a bit unnerving that doctors call what they do 
+… practice?”
+- George Carlin
+
+
+Introduction -
+Welcome to the Advanced Medical Course. By the end of this, you will have extended knowledge of all aspects of the ACE Medical and KAT Medical systems employed by the 105th, including:
+
+-  Understanding the roles and responsibilities of a CLS and a Corpsman in the 105th
+-  Effective use of all equipment available 
+-  Casualty Assessment and Treatment, including basic TCCC
+-  Battlefield Triage and Evacuation SOP in a mass casualty situation
+
+
+Before we begin…
+There are a few documents that are quite important to understand if you wish to excel as a CLS or Corpsman. Although these aren’t required for today's training, I strongly recommend that you read over them and familiarize yourself with the information within. Those documents are the Medical Handbook and our TCCC. There is also the Official KAT Medical Guide for more technical details on all the equipment and systems in place.
+
+
+
+
+
+
+Recap -
+
+
+Participants will be asked if there is anything regarding basic Medical that they do not understand before proceeding with this course. If anything they do not know is covered in this course, please clarify this with them before moving on. 
+
+
+Part 1: Roles and Responsibilities -
+
+
+To start, let's explain the two roles available within the 105th: Combat Life Saver and Corpsman. Both play a vital role in the care of casualties on the battlefield, each providing a particular level of care at each stage of treatment.
+
+
+Role 1: Corpsman -
+
+
+Arguably the second most critical role in a squad besides the Squad Leader,  the Corpsman is the backbone of the squad. Their primary goal is to ensure all members of the squad are combat-effective at all times. A Corpsman will carry the bulk of a squad’s Medical supplies, from bandages and IVs, to more advanced equipment (which will be discussed shortly). They have extensive knowledge of the ACE and KAT Medical systems, and can apply this in the field to effectively treat casualties from both within and outside their squad. They have a dedicated Medical Radio Channel (Additional Channel 71) that they use to talk to the Platoon Corpsman and their fellow Corpsmen in other squads, giving reports of their squad's condition, relaying critical information when they receive casualties or have a Mass Casualty Incident, and organizing evacuation of serious casualties. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Role 2: Combat Life Saver -
+
+
+Serving as the second lifeline and assistant to the Corpsman, a Combat Life Saver is almost as important to a squad. While a CLS is still a Rifleman first and foremost, they are expected to also have thorough knowledge of the ACE and KAT Medical systems, and should the Corpsman be taken out of action, their primary goal then is to resuscitate the Corpsman. While CLS do not carry as much Medical supply as a Corpsman, they still carry a decent amount of bandages and IVs, along with some other equipment not available in a Rifleman’s kit. In the event of a Mass Casualty Incident or if at a CCP, a CLS may be called upon to assist another Corpsman. CLS do not sit on the Medical Radio Channel but are expected to know its frequency should it be necessary (e.g., Corpsman is knocked out). In this case, you will sign in as your squad number Mike (ex., 1-3 Delta checking in on frequency 71).  You can think of CLS as a combat nurse assistant for the Corpsman.
+
+
+
+
+Order of treatment and other responsibilities 
+Who should you treat first in the situation of a mass casualty? 
+Whenever a mass casualty happens, the order of importance is as follows, 
+Command > Corpsmen > Squad Leads > Assistant Squad Leads > Specialized MOS (engineers, etc) > Any other Marines.
+
+
+Whenever the platoon corpsman asks a corpsman to assist another squad, it should be followed unless not possible or unsafe, all corpsmen should ensure they have a battle buddy at all times, ensuring they can safely treat casualties, nothing feels worse then getting domed in the back of the head whilst your trying to save a casualty.
+
+
+
+
+
+
+
+
+
+
+
+
+Part 2: Equipment -
+
+
+Before we begin treating any casualties, it is essential that you know what extra equipment is available at your disposal. Not everyone is allowed to carry or use the same equipment.
+
+
+Disposable Items
+
+
+Guedel Tube - A Guedel Tube is a plastic tube that is inserted into the oral cavity to clear obstructions. In order to successfully insert a Guedel Tube, the patient must have a clear airway (no occlusions). The Guedel Tube does not prevent the patient from throwing up.
+
+
+* Who can carry it? - Everyone normally has at least a few in their standard kit.
+
+
+* Who can use it? - Both CLS and Corpsmen.
+        
+* How many should you carry? - Approx. 20-30.
+
+
+* When should you use it? - Should be used if a King LT is not available. 
+        
+King LT - The King LT is also used to clear obstructions, but also has the added benefit of preventing the patient from throwing up again. Like the Guedel Tube, it still needs any occlusions cleared before it can be inserted.
+This is preferred over the Guedel tube because it completely eliminates the need to recheck airways. 
+
+
+* Who can carry it? - Everyone normally has at least a few in their standard kit.
+
+
+* Who can use it? - Corpsmen and CLS who are working on a Corpsman.
+        
+* How many should you carry? - Regular Approx. 20-30.
+
+
+* When should you use it? - Should be used at the earliest opportunity. 
+NCD Kit - The Needle Chest Decompression Kit (also referred to as SPEAR) is a small emergency kit for use of the treatment of a Tension Pneumothorax.   
+
+
+* Who can carry it? - Billeted CLS and Corpsmen. Corpsmen can carry if they wish, but not mandatory.
+
+
+* Who can use it? - Billeted CLS and Corpsmen.
+        
+* How many should you carry? - Approx. 5.
+
+
+* When should you use it? - Should be used at the earliest opportunity if a tension pneumothorax is present. Will not treat a hemopneumothorax.
+
+
+
+
+AAT Kit - The AAT Kit (Advanced Airway Treatment Kit) is used in the treatment of a Hemopneumothorax (Drain Fluid) or Tension Pneumothorax (Needle Decompression). 
+
+
+* Who can carry it? - Only Corpsmen.
+
+
+* Who can use it? - Only Corpsmen.
+        
+* How many should you carry? - Approx. 5.
+
+
+* When should you use it? - Should be used at the earliest opportunity if either condition is present. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reusable Items
+
+
+16g IV - The 16g IV is the standard device to use when administering fluid or drugs. It is inserted into any of the limbs provided that it is not severely damaged (only counts open and bandaged wounds, stitched wounds are not counted). 
+
+
+* Who can carry it? - CLS, Corpsmen and ODSTs.
+
+
+* Who can use it? - CLS, Corpsmen and ODSTs.
+        
+* How many should you carry? - Approx. 5-10 in case they get lost.
+
+
+
+
+FAST IO - the FAST IO is an emergency Intraosseous injection system (means into the bone). It is used when either the patient has all limbs unavailable or they are in cardiac arrest. Both fluids and some drugs can be put through it (autoinjectors cannot be used with it).
+
+
+* Who can carry it? - CLS, Corpsmen and ODSTs.
+
+
+* Who can use it? - CLS, Corpsmen and ODSTs.
+        
+* How many should you carry? - Approx. 5-10 in case they get lost.
+
+
+* When should you use it? - Should only be used if either all limbs are inaccessible or if a patient is in cardiac arrest. Do not use it on a conscious patient unless required, as it produces a fair amount of pain.
+
+
+
+
+
+
+
+
+
+
+Pulse Oximeter - The Pulse Oximeter is used to analyze the patient's current Heart Rate (HR) and Blood Oxygen Concentration (SpO2). The heart rate will be in Beats Per Minute (BPM), and the SpO2 will be a percent concentration of oxygen in their blood. Above 85% is needed to regain consciousness, below 75% they will lose consciousness, and below 65% is lethal. 
+
+
+* Who can carry it? - Billeted CLS and Corpsmen.
+
+
+* Who can use it? - Billeted CLS and Corpsmen.
+        
+* How many should you carry? - Approx. 5-7 in case they get lost.
+
+
+* When should you use it? - Should be used particularly if a patient has been down for an unknown amount of time or you are attempting to restart their heart and need their heart rate easily accessible.
+
+
+
+
+Dressing Vacuum - The Dressing Vacuum is a PAK but for a single body part. Behaves otherwise identical to a regular PAK.
+
+
+* Who can carry it? - Only Corpsmen can carry these items.
+
+
+* Who can use it? - Only Corpsmen can use these items.
+
+
+* When should you use it? - Should be used if a body part is severely wounded and a regular PAK would take too long/not possible. 
+
+
+
+
+
+
+
+
+
+
+
+
+Accuvac - The Accuvac is used to clear occlusions easily. It is recommended to still check the airways after use to ensure it has indeed worked, This item is mandatory in a Corpsman's kit.
+
+
+* Who can carry it? - Only Corpsmen.
+
+
+* Who can use it? - Corpsmen and CLS working on Corpsmen.
+
+
+* When should you use it? - Should be used every time an occlusion is present. 
+
+
+
+
+Manual Suction Pump - This is an alternate version of the Accuvac that requires manual labor to operate. Takes longer but still gets the job done. 
+
+* Who can carry it? - Both CLS and Corpsmen can carry it, but Corpsmen do not need to.
+
+
+* Who can use it? - Corpsmen and CLS can use it.
+
+
+* When should you use it? - Should be used every time an occlusion is present. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bag Valve Mask - A Bag Valve Mask (BVM), also known as a manual resuscitator, is a piece of Medical equipment used to assist in providing positive pressure resuscitation to a patient who is not breathing. In-game, if they are not breathing, it will slow down their SpO2 loss. If they have regained a clear airway/able to breathe again, it will increase their SpO2 gain. It can also be used with an Oxygen Tank (explained later) to further increase this gain. Medical facilities and vehicles also count as infinite oxygen.
+
+* Who can carry it? - Only Corpsmen.
+
+
+* Who can use it? - Only Corpsmen.
+
+
+* When should you use it? - Should be used when the patient has regained a clear airway. The BVM will not work if the patient has an obstruction or occlusion.
+
+
+
+
+Pocket Bag Valve Mask - Works in the same way as the larger BVM, however, it does not regain as much SpO2 and cannot be attached to an Oxygen Tank.
+
+* Who can carry it? - Only billeted CLS.
+
+
+* Who can use it? - Only Billeted CLS.
+
+
+* When should you use it? - Should be used when the patient has regained a clear airway. The Pocket BVM will not work if the patient has an obstruction or occlusion.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oxygen Tank - A portable tank of oxygen able to be used with a BVM to help increase the amount of SpO2 gained when using it. They can be refilled at Medical facilities/vehicles via ACE self-interaction.
+
+
+* Who can carry it? - Only Corpsmen.
+
+
+* Who can use it? - Only Corpsmen.
+
+
+* When should you use it? - Should be used when using the BVM.  
+
+
+
+
+Surgical Kit - The Surgical Kit is required to stitch wounds and prevent them from reopening. When stitching, at least a whole limb’s wounds must be fully bandaged before a stitch can be performed. You can also stitch while a tourniquet is applied (this is highly recommended).
+
+
+* Who can carry it? - Only Corpsmen.
+
+
+* Who can use it? - Only Corpsmen.
+
+
+
+
+Personal Aid Kit (PAK) - The PAK is used to fully reset a patient's medical condition to normal. This is a very powerful tool, however, it can only be used at medical facilities (med tents, hospitals, etc). 
+        
+* Who can carry it? - Only Corpsmen.
+
+
+* Who can use it? - Only Corpsmen.
+
+
+* When should you use it? - Should be used if near a Medical tent or within a medical facility, and if time permits, as PAKs can take upwards of a minute per person. 
+
+
+Drugs
+
+
+Some of the drugs below will require an IV or IO to be inserted in order to administer them. Carrying these drugs is not mandatory but highly recommended. If you do intend on carrying these drugs, you are expected to know how to use and carry all of them.
+
+Ammonium Carbonate (NO IV) - Also known as smelling salts, these are utilized to wake up unconscious people, provided their vitals are at acceptable levels.
+
+
+*  Who can carry it? - Both Corpsmen and billeted CLS can carry it.
+
+
+* Who can use it? - Both Corpsmen and billeted CLS can use it.
+
+
+* How many should you carry? - You should need no more than 1. 
+
+
+* When should you use it? - In order for it to work, they need to have lost a large amount of blood or less, their SpO2 needs to be above 85%, they need a heart rate, and their blood pressure needs to be between 110 and 130 systolic. Recommended to use where possible in order to maintain the movement of the squad.
+
+
+
+
+Caffeine Pills (NO IV) - Caffeine pills can be used to replenish a person’s stamina, allowing them to run extended distances. 
+
+*  Who can carry it? - Corpsmen and billeted CLS can carry it.
+
+
+* Who can use it? - Corpsmen and billeted CLS can use it.
+
+
+* How many should you carry? - No more than 1 or 2 bottles.
+
+
+* When should you use it? - Best use is when a unit has to move an extended 
+
+
+
+
+NARCAN (NO IV) - NARCAN is used in the treatment of opioid overdoses. In-game, it simply removes an instance of opioid Medication from the affected individual. Any pain associated with the instance removed will eventually return as a result. 
+
+
+*  Who can carry it? - Both Corpsmen and billeted CLS can carry it.
+
+
+* Who can use it? - Both Corpsmen and billeted CLS can use it.
+
+
+* How many should you carry? - No more than 5.
+
+
+
+
+* When should you use it? - Should be used if either the individual is experiencing an overdose or will soon be affected by an overdose. The easiest way to determine this is to look at the Activity Log section of their Medical Menu (bottom left).
+
+
+
+
+Penthrox Inhaler (NO IV) - A Penthrox Inhaler uses the drug Methoxyflurane is an inhaled anesthetic primarily used to reduce pain following trauma. It is given to patients as a temporary relief until harder pain relief can be administered. It is also known as the “Green Whistle”.  
+
+
+*  Who can carry it? - CLS and Corpsmen.
+
+
+* Who can use it? - CLS and Corpsmen can use it without asking; normal Marines should ask their corpsmen or CLS before doing so.
+
+
+* How many should you carry? - No more than 5.
+
+
+* When should you use it? - For our purposes, it should be used in the treatment of minor pains, or as an initial pain drug to see if pain will lower following treatment. If pain does not lower reasonably, stronger Medication can be given.  
+
+
+
+
+Morphine (NO IV) - an autoinjector which uses the drug morphine, as a primary anesthetic to suppress pain after a trauma, should be administered carefully, as wrong usage will cause cardiac arrest.
+
+Who can carry it? - Everyone, standard riflemen are only allowed to carry 5 auto-injectors.
+
+
+* Who can use it? - CLS and Corpsmen can use it without asking; normal Marines should ask their corpsmen or CLS before doing so.
+
+
+* How many should you carry? - No more than 15.
+
+
+* When should you use it? - For our purposes, it should be used in the treatment of minor pains, or as an initial pain drug to see if pain will lower following treatment. If pain does not lower reasonably, stronger Medication can be given.  
+
+
+TXA - TXA, also known as Tranexamic Acid, binds itself to clotting sites, inhibiting the breakdown of clots. In-game, it will slowly clot open wounds over an approximate period. 2-minute period, assisting the Corpsman with bandaging while they perform other tasks. 
+
+
+*  Who can carry it? - Both Corpsmen and billeted CLS can carry it.
+
+
+* Who can use it? - Both Corpsmen and billeted CLS can use it.
+
+
+* How many should you carry? - No more than 10.
+
+
+* When should you use it? - Should be used at the earliest opportunity if a patient has suffered a severe amount of hemorrhaging and may take a substantial amount of time and bandages to fully close all wounds.  
+
+
+
+
+
+
+Norepinephrine - Norepinephrine is normally a first-line drug in cases of septic shock. In-game, it increases cardiac output, which in turn increases blood pressure by about 15%. It will do this for about 2 mins before clearing.
+
+
+*  Who can carry it? - Only Corpsmen can carry it.
+
+
+* Who can use it? - Only Corpsmen can use it.
+
+
+* How many should you carry? - No more than 5.
+
+
+* When should you use it? - Most of the time, it will be used in conjunction with Ammonium Carbonate to attempt to get the patient up faster.
+
+
+  
+Phenylephrine - Phenylephrine performs the same function as Norepinephrine but has a much greater effect than it (approximately twice as much BP increase). However, because of how it does this, there is a reflex lowering of the heart rate by about 5-15 BPM.
+
+
+*  Who can carry it? - Only Corpsmen can carry it.
+
+
+* Who can use it? - Only Corpsmen can use it.
+
+
+* How many should you carry? - No more than 5.
+
+
+* When should you use it? - Like Norepinephrine, it will be used in conjunction with Ammonium Carbonate to attempt to get the patient up faster.
+
+
+
+
+
+
+
+
+
+
+
+
+Nalbuphine - Nalbuphine is an opioid analgesic used to treat moderate to severe pain. In game, while its pain suppression is not as good as morphine (0.6 compared to 0.8), it can be inserted via IV/IO, allowing those with fully tourniqueted limbs to receive pain relief. 
+
+
+
+*  Who can carry it? - Only Corpsmen can carry it.
+
+
+* Who can use it? - Only Corpsmen can use it.
+
+
+* How many should you carry? - No more than 5.
+
+
+* When should you use it? - While it can be used for regular treatment of pain, it’s best used when the patient has all limbs tourniqueted.
+
+
+
+
+Nitroglycerin - Working in counter to Norepinephrine and Phenylephrine, Nitroglycerin is a vasodilator, decreasing an individual's blood pressure by about the same amount as Norepinephrine. 
+
+
+*  Who can carry it? - Only Corpsmen can carry it.
+
+
+* Who can use it? - Only Corpsmen can use it.
+
+
+* How many should you carry? - No more than 5.
+
+
+* When should you use it? - Nitroglycerin would be used in an attempt to counter Phenylephrine, if it is causing risk to the patient. 
+
+
+
+
+
+
+
+
+
+
+Miscellaneous Items
+
+
+AED/AED-X - The AEDs are used to attempt to restart a patient's heart. The main difference between the two is the X variant has a higher success chance and can be attached to the chest to monitor their vitals.
+
+
+* Who can carry it? - Only the platoon Corpsman and platoon Sarc.
+
+
+* Who can use it? - Platoon Corpsmen or corpsmen when working on platoon corpsmen or equivalent.
+
+
+
+
+Part 3: Casualty Assessment and Treatment -
+
+
+An essential part of being a CLS or Corpsman is the ability to effectively treat a casualty. Knowing which wounds to tend first, effective administration of drugs and timely administration of CPR or an AED can mean the difference between saving a comrade or losing him. When it's called over the radio that someone has gone down, naturally, we want to get to them and start administering aid ASAP. 
+
+
+But not every situation allows that to happen. ENSURE THE AREA IS SECURE BEFORE TENDING TO A PATIENT. Nothing ruins a day like getting shot in the back of the head while performing CPR. Remember, despite being a corpsman/CLS, you are still a rifleman first; your first responsibility is to kill the enemy and take control of your “Operating Room”[Spend 5- 10 mins looking over TCCC to cover basics].
+
+When treating a casualty, we follow a Casualty Assessment and Treatment Procedure to ensure that all critical injuries/conditions are dealt with in an order that maximizes the casualty’s chance of survival. It is abbreviated to MARCH: Massive Hemorrhaging, Airway, Respiratory, Circulation, and Helpful Treatment.
+
+
+
+
+
+
+M: Massive Hemorrhaging  -
+
+
+Blood is important for survival. You lose too much blood, you die. Once you have successfully moved the casualty to a secure location, you must tend to wounds as fast and effectively as possible. Regardless of the situation, you should try to check a person's hemorrhage before attempting to drag them.
+
+
+
+
+Step 1: Which wounds are the worst? -
+Wounds come in many shapes and sizes. While the word ‘Large’ can be scary, not all Large wounds are equal. Generally speaking, the severity of wounds (based on bleed rate) is as follows, from most to least lethal:
+* Velocity Wounds
+* Avulsions
+* Punctures, Tears and Crushed Tissue
+* Cuts
+* Abrasions
+* Bruises (Bruises don’t bleed)
+
+
+Step 2: Stopping the bleeding -
+
+
+As a general practice, you begin by tourniqueting any limbs that have too many wounds that can’t be dealt with by a packing bandage (reference the Advanced Medical tab of the Medical Handbook) as it will take slightly less time than bandaging a single wound and way faster than bandaging all the wounds on a severely wounded limb. Once this has been completed, you focus on bandaging the torso and head. The order they are done in once again depends on the severity of each body part. However, ensure secondary care is done as soon as the victim is stable to prevent them from suffering from negative tourniquet effects from the application of the tourniquet (slowed walking speed, severe pain). 
+
+
+
+
+
+
+
+
+A: Airway -
+
+
+Once the casualty is no longer bleeding, check their airway. The two potential issues with the airway can be:
+
+* Occlusion - Caused by blood, vomit, or other foreign objects entering the airway. In-game, it will tell you if manuall Suction is required or not. If required, use appropriate methods available (Accuvac for Corpsman, head turning for CLS and Rifleman). Note that for head turning it may take multiple attempts. Best practice is to be persistent until you are notified that the Occlusion is removed.
+
+
+* Obstruction - Caused by the tongue falling back and obstructing the airway. In-game it will tell you if Airway Management is required or not. If required, use the appropriate method available to you (King LT for Corpsman, Guedel Tube for CLS and hyperextend head for Rifleman). Note that a King LT/Guedel Tube cannot be inserted until any occlusions have been resolved. Also, hyperextension of the head will do two things:
+
+
+   * Although it stops an obstruction, it does not remove the “Airway Management required”. This is because it is a temporary solution. A guedel tube/King LT actually fixes the issue.
+
+
+Even after you have dealt with the obstruction/occlusion, it is strongly recommended to once again check the airway to ensure you have successfully resolved the issue, along with periodic checks. The only time this is not required is if a King LT has been inserted, but it is still recommended for good habit building.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R: Respiratory -
+
+
+Once you have finished securing the airway at the head, it’s time to move to the torso. There are 3 main conditions that can occur - Pneumothorax, Hemopneumothorax, and a Tension Pneumothorax. If a casualty has any of these conditions, they will lose Blood Oxygen Concentration, even if their airway is secure. 
+Let’s start with the root of these problems - Pneumothorax. In real life, a pneumothorax is when air leaks into the space between your lung and chest wall, which can be caused by numerous things. In KAT Medical, a pneumothorax has a chance to occur as a result of a wound that inflicts pain above a certain threshold (25% chance with large penetrating wounds (Velocity and Avulsion) to the chest). As previously mentioned, this is resolved with a Chest Seal available to all personnel. 
+
+
+A Hemopneumothorax is similar to a pneumothorax; however, instead of air leaking in between the lung and chest wall, it is blood that is leaking. An AAT Kit is needed to fix it. 
+
+
+The final condition, a Tension Pneumothorax, is caused when the air cannot escape, and begins to build pressure. This will need an AAT Kit or NCD Kit to remedy. 
+
+
+BE AWARE - These conditions will very easily kill someone if not identified and treated in a timely manner. Identifying can be done in multiple ways, sound; A wheezing and almost coughing type of sound normally indicates any of these conditions, visually, by looking at someone's ACE Medical menu, you can visually see a bloody hole in the top right side of someone's chest. 
+
+
+C: Circulation -
+
+
+Now that the casualty has a stable airway, let's look at circulation - Mostly the Heart Rate and Blood Pressure, along with how to handle cardiac arrest. Note before checking a person's Heart Rate or Blood Pressure: If you intend to check on a limb, ensure the limb does NOT have a tourniquet on it. Checking on a tourniqueted limb will give false negative readings and will be highly detrimental to the casualty. 
+Step 1: Vital Signs -
+Starting with the Heart Rate - you can check an individual's pulse through all body parts of a casualty. It is measured in Beats Per Minute. A normal HR is about 80BPM, however, the acceptable range is generally 60-120. Should it be outside of this range, the first step is to monitor it, as in most cases it will normalize on its own. Next, ensure the casualty is receiving enough blood, or their Blood Pressure is at an appropriate level (will be explained shortly). If it is still outside the acceptable range, drugs can be utilized as a last resort. You can apply epinephrine to increase their HR, and adenosine or morphine (in extreme circumstances) to lower their HR (remembering the side effects of morphine). For CLS and Corpsman, you can attach a Pulse Oximeter, and you will receive constant updates on their Heart Rate and Blood Oxygen Concentration.
+
+
+Moving onto Blood Pressure - It is read out with a systolic number followed by a diastolic number. For all intents and purposes, we only care about the systolic number. You can only check someone's BP through their limbs. A regular BP is normally 120/80, and the acceptable range is 150/x and 90/x. Note: a patient's Heart Rate will have an effect on their Blood Pressure (i.e. someone at some blood loss with a 120BPM can have a BP of 140/x to 160/x). The easiest way to increase a casualty’s BP is through IVs.
+
+
+Step 2: Cardiac Arrest and IV -
+
+
+Should either of these vital signs reach extremely high or low statistics, the patient will enter cardiac arrest. Once a patient has entered cardiac arrest, it's a race against time to restart their heart and get blood pumping. When treating a casualty, a vitals sweep will tell you if they are “in cardiac”. There are three main causes of a patient’s cardiac arrest: Severe trauma, their Heart Rate dropping below 30BPM or rising above 220BPM for an extended period of time, or they have lost too much blood. 
+
+
+Once this has been determined, CPR needs to be started ASAP, along with getting at least 1L of IV going into their system. Thankfully, while performing CPR, you give the patient an artificial pulse. This allows IVs to enter the patient's system much quicker, ensuring that when the patient’s heart restarts, it is not immediately put under heavy stress, causing them to reenter cardiac arrest. After every round of CPR, if you have a Pulse Oximeter or an AED-X attached, read its output to determine if the patient has returned a Heart Rate. If neither is available, manually re-check the pulse.
+When administering an IV, ensure to open the IV in the top right-hand under IV Flow Control, if this is not done, the fluids won't enter the patient's system.  
+
+Should you be fortunate enough to have access to an AED, you may use such a device if they have no Heart Rate. Once again, after every shock, check Pulse to determine if the shock was successful. In the case of an AED-X, it is strongly recommended to attach it to the chest to monitor vitals for best convenience.
+
+
+
+
+H: Helpful Treatment -
+
+
+By this stage in the treatment of a casualty, they should have returned a Heart Rate, be receiving the appropriate level of blood into their system, and the airway has been fully secured. In this state, a casualty is considered “Stable”, meaning that should you need to step away from them, there are no dire consequences to them, or they will wake up in a short period of time. You can now begin to properly tend to them via stitching of wounds and splinting of fractures. Start with stitching the wounds on their torso and head, followed by bandaging and stitching limbs, either all at once or in stages as preferred. Although the casualty is now in no immediate danger, efficiency is still key.
+
+
+Once the patient wakes up, ensure they do not move at all until you have removed all necessary equipment and run another check of their vitals. Once you are certain they are 100% clear, and any necessary drugs have been administered, you are free to discharge the casualty. 
+
+
+While the Casualty Assessment and Treatment Procedure needs to be followed, every casualty is different. You might have similar-looking casualties, but two will never be the same. It is up to you to appropriately adapt to the casualty's specific needs and injuries to maximize the effective care they receive. 
+
+
+Part 4: Battlefield Triage and Evacuation SOP -
+
+
+In a perfect world, you would be able to treat every casualty in a nice and safe environment, only dealing with some unfortunate scrapes and the occasional fracture. However, war is hell, and this is Arma. Dealing with a minor casualty every so often is a fever dream. You will no doubt encounter numerous scenarios where you simply may not be able to save everyone, and must make that tough decision. This is known as “Triage”. 
+
+
+
+
+Step 1: Levels of Triage -
+
+
+In Triage, there are 4 levels of severity: Green, Amber, Red, and Black. Although they sound fairly simple to understand, let's break it down...
+
+
+Minor/None (Green) -
+
+
+“Minor” patients are essentially your walking wounded. They are individuals who are still conscious, have suffered non-life-threatening wounds, or have wounds that can be easily self-treatable. These people are at the lowest priority. You deal with “Minor” patients when all other patients/casualties have been tended to. 
+
+
+
+
+Delayed (Amber) -
+
+
+“Delayed” patients/casualties are the second-to-last priority in Triage. “Delayed” individuals can be either awake or unconscious (with a stable pulse), and do require Medical intervention. However, they do not require immediate attention and can be tended to whenever there is time and safety to do so, this is also referred to as secondary treatment.
+
+
+
+
+
+
+
+
+Immediate (Red) -
+
+
+“Immediate” casualties always take first priority in Triage. They could have serious hemorrhaging, be in cardiac arrest, have respiratory emergencies, or a combination of all three. If a casualty is determined “Immediate”, you must locate them ASAP to begin giving treatment. The longer it takes, the lower their chance of survival.
+
+
+
+
+Deceased (Black) -
+
+
+“Deceased” is the Triage designation no one wants to give. A casualty designated “Deceased” is KIA. NOTE: This designation can not be given lightly. You must be certain the casualty is KIA by clicking the patient's head and checking their response, it will show if they are dead or unconscious.
+If a casualty is KIA, you are required to break their sensitive equipment by using Ace Interact and looking at their chest area.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step 2: Battlefield Treatment and Evacuation SOP -
+
+
+Now that you know how to designate patients/casualties, we need to look at the overall procedure when dealing with casualties on the battlefield, including a Mass Casualty Incident (normally shortened to “Mass Cas”). 
+
+
+Shortly after taking any casualties, all members of a squad must follow TCCC before properly treating casualties. As a CLS or Corpsman, you then have to:
+
+
+1. Determine exactly how many casualties you are dealing with. If you have 3 or more casualties, it is considered a Mass Casualty.
+2. Determine if assistance is required, and relay all relevant information to both your Squad Lead, or over the MedNet in the case of a Corpsman.
+3. Begin casualty assessment using Triage designations if necessary. This helps you determine who needs your attention first. 
+4. Perform critical life-saving treatments (e.g., bandaging severe wounds, clearing airway, CPR) and life-extending treatments (e.g., insertion of IVs).
+5. Determine if any casualty needs to be transported from the current position, either by relocation or Medevac to a CCP (via air or ground as necessary). Triage determines the priority of movement (Black gets no Medevac, Red always gets Medevac, Amber may need Medevac, Green never gets Medevac).
+Medevac only gets approved by the platoon corpsmen or equivalent.
+      1. Familiarize yourself with the 5-line medevac request in the JTAC Course.
+6. If possible, begin performing secondary treatments (e.g., splinting fractures, stitching)
+
+
+Following this procedure is critical in ensuring that casualties are treated and transported away from the front line in a timely manner, where they will be more effectively and completely treated before being returned to their respective squad. 
+
+
+
+
+
+
+Final Notes
+* Pain is measured on a 0  - Infinity scale, but perceived by the player as 0-1. If the pain level is above the threshold, small injuries can cause people to go unconscious. Either they take no damage for 900 secs or get PAK’d to reset it.
+
+
+* You can overdose people on drugs. They are as follows:
+   * Morphine - Approx. 4 does within 30 mins.
+   * Epinephrine - Approx. 10 doses within 2 mins.
+   * Adenosine - Approx. 6 doses within 2 mins.
+   * IV - Cannot overdose, but if the patient does not need any more IV, all remaining IV is discarded. Pay attention to what is going into them and top up as necessary. Better to lose 200ml over 1200ml.
+
+
+
+
+* If a casualty has severe wounds on all limbs, a strategy once initial bleeding is stopped is to bandage the least injured of all of them, then stitch. This will give you care-free access for IV and drug administration, and also remove the worry of their torso or head should they be wounded too.
+
+
+* To roughly identify how much blood someone has lost, look at their card:
+   * Some blood - 0 - 900ml
+   * A lot of blood - 900 - 1800ml
+   * A large amount of blood - 1800 - 2400ml
+   * Fatal amount of blood - 2400 - 3000ml
+   * Beyond 3000ml - Will cause death
+
+
+From The UNSC Two For Flinching DDS-277 and 105th Drop Shock Battalion, Commissioned by Commanding Officer G. Cruz                                            Formatting made by 1stSgt. B. Barkley
+Approved by Maj. G. Cruz
+Updated by CWO2. S. Skye
+Up to date as of 4/12/2025
